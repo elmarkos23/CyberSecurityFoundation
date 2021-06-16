@@ -6,4 +6,4 @@ Pregunta 1: ¿Qué características físicas pueden afectar la usabilidad de los
 - Temperatura ambiente
 - Contaminación
 - Ruido
-- #Todo lo anterior#
+- **Todo lo anterior**
